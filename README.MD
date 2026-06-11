@@ -4,3 +4,4 @@
 
 - [Lenovo Thinkpad - Trackpad / Touchpad Model Notes and Sutff](https://github.com/honeybugserial/thinkpad-touchpad-refrence)
 - [Chevy Engine - Truck Notes and Stuff](https://github.com/honeybugserial/THINGSANDSTUFFNOTESOFINFORMATIONS/blob/main/CHEVY-ENGINE-TRUCK.MD)
+- [Dual DMCPA10W Headunit](https://github.com/honeybugserial/Dual-DMCPA10W---Things-of-Interest)
